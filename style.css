@@ -26,3 +26,8 @@ em {
 li {
     font-size: small;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
